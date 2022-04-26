@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
+
 ### Summary Card 🔭
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coolzoom&theme=monokai)
@@ -51,3 +56,8 @@ Here are some ideas to get you started:
 
 ---
 ![](https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-contribution-grid-snake.svg)
+
+
+⬇️**leave message to me**⬇️
+
+[![](https://chat.getloli.com/room/@coolzoom.github/svg?width=600&height=280&limit=20&theme=light&title=coolzoom@github:%20~&fontSize=13)](https://chat.getloli.com/room/@coolzoom.github?title=coolzoom)
