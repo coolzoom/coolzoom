@@ -57,7 +57,11 @@ Here are some ideas to get you started:
 ---
 ![](https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-contribution-grid-snake.svg)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ⬇️**leave message to me**⬇️
 
 [![](https://chat.getloli.com/room/@coolzoom.github/svg?width=600&height=280&limit=20&theme=light&title=coolzoom@github:%20~&fontSize=13)](https://chat.getloli.com/room/@coolzoom.github?title=coolzoom)
