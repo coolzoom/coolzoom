@@ -55,12 +55,11 @@ Here are some ideas to get you started:
 [![Github Followers](https://img.shields.io/github/followers/coolzoom?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/coolzoom?tab=followers)
 
 ---
-![](https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-snake-dark.svg" />
 </picture>
 ⬇️**leave message to me**⬇️
 
